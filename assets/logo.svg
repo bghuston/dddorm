@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="680" height="180" viewBox="0 0 680 180" role="img" aria-labelledby="title desc">
+  <title id="title">dddorm</title>
+  <desc id="desc">A database enclosed by nested aggregate boundaries beside the dddorm wordmark.</desc>
+  <rect width="680" height="180" rx="24" fill="#101d30"/>
+  <rect x="26" y="24" width="132" height="132" rx="26" fill="none" stroke="#55d6be" stroke-width="3"/>
+  <rect x="40" y="38" width="104" height="104" rx="20" fill="none" stroke="#729bf5" stroke-width="2" stroke-dasharray="6 5"/>
+  <path d="M60 66v48c0 9 64 9 64 0V66" fill="#203957" stroke="#55d6be" stroke-width="3"/>
+  <ellipse cx="92" cy="66" rx="32" ry="10" fill="#203957" stroke="#55d6be" stroke-width="3"/>
+  <path d="M60 89c0 13 64 13 64 0" fill="none" stroke="#55d6be" stroke-width="3"/>
+  <text x="190" y="108" fill="#f2f6ff" font-family="ui-monospace, monospace" font-size="66" font-weight="700" letter-spacing="-3">dddorm</text>
+  <text x="194" y="138" fill="#a9bddb" font-family="system-ui, sans-serif" font-size="16">Model the boundary. Protect the invariant.</text>
+</svg>
